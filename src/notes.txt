@@ -1,0 +1,5 @@
+State Hooks:
+Just look at NameForm.
+
+
+Waaaay easier than the other shit

@@ -1,0 +1,24 @@
+.GradeForm {
+	margin: 10px;
+	border: 1px black solid;
+	padding: 10px;
+}
+
+.GradeForm label {
+	font-weight: bold;
+}
+
+.GradeForm input {
+	margin: 0 10px;
+}
+
+#selectScore {
+	font-style: italic;
+}
+
+.gradeList {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+	margin: auto;
+}
